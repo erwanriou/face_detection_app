@@ -14,6 +14,6 @@ pip install opencv-python
 
 ```sh
 git clone https://github.com/erwanriou/face_detection_app.git
-cd dectector_app
+cd face_detection_app
 python index.py
 ```
